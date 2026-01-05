@@ -1,8 +1,9 @@
 trajkit-demo documentation
 ==========================
 
-A lightweight gallery of trajectory and biophysics demos with inline previews and videos used for talks and papers.
-The videos and figures here are examples produced using principles implemented in trajkit; some supporting code is not yet implemented in Python and will be added in future development.
+A lightweight gallery of trajectories and visualizations of spatio-temporal systems, with inline previews and videos.
+The videos and figures here are examples produced using concepts implemented in trajkit or planned for future trajkit development.
+See the main trajkit documentation at https://trajkit-learn.readthedocs.io/en/latest/.
 
 .. toctree::
    :maxdepth: 2
