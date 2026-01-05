@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it.
+title: trajkit-demo
+version: 0.1.0
+license: MIT
+repository-code: https://example.com/placeholder
+url: https://example.com/placeholder
+authors:
+  - family-names: Molaei
+    given-names: Mehdi
+preferred-citation:
+  type: article
+  title: Trajectory demo gallery
+  authors:
+    - family-names: Molaei
+      given-names: Mehdi
+  journal: Placeholder Journal
+  year: 2024
+  doi: 10.0000/placeholder

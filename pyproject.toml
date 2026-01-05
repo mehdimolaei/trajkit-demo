@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trajkit-demo"
+version = "0.1.0"
+description = "Demo gallery for trajectory and biophysics media with Sphinx docs."
+readme = "README.md"
+authors = [{ name = "Mehdi Molaei" }]
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+docs = [
+    "sphinx>=7",
+    "sphinx-book-theme",
+    "myst-parser",
+    "sphinx-design",
+    "sphinxcontrib-video",
+]
+
+[tool.setuptools]
+py-modules = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"

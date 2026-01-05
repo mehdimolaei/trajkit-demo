@@ -1,0 +1,6 @@
+* text=auto
+
+# Uncomment to enable Git LFS for large media assets
+# docs/_static/media/*.mp4 filter=lfs diff=lfs merge=lfs -text
+# docs/_static/media/*.webm filter=lfs diff=lfs merge=lfs -text
+# docs/_static/media/*.gif filter=lfs diff=lfs merge=lfs -text
